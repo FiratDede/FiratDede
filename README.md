@@ -12,4 +12,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...from dede.firat.dede@gmail.com
 - 😄 Pronouns: ... He/him 
+I am always open to new project ideas and work on them together. 
 
