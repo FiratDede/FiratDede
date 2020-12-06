@@ -11,6 +11,6 @@
 - 🤔 I’m looking for help with ... Machine Learning
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...from dede.firat.dede@gmail.com
-- 😄 Pronouns: ... He/him 
+- 😄 Pronouns: ... He/him  </br>
 I am always open to new project ideas and work on them together. 
 
