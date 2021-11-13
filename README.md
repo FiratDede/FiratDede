@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently a computer engineering student
-- 🌱 I’m currently learning ... Mobile Development.
+- 🌱 I’m currently learning ... Backend Development.
 - 👯 I’m looking to collaborate on ... Any area which is related to software
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...from dede.firat.dede@gmail.com
