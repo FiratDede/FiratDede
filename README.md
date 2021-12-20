@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a computer engineering student
 - 🌱 I’m currently learning ... Backend Development.
-- 👯 I’m looking to collaborate on ... Any area which is related to software
+- 👯 I’m looking to collaborate on ... Any software project ideas
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...from dede.firat.dede@gmail.com
 - 😄 Pronouns: ... He/him  </br>
