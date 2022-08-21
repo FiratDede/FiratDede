@@ -5,7 +5,6 @@
 -->
 
 
-- 
 - 🌱 I’m currently learning ... Java Spring Boot and React.js.
 - 👯 I’m looking to collaborate on ... Any software project ideas
 - 💬 Ask me about ... Anything
