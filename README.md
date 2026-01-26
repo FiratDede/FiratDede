@@ -14,10 +14,10 @@ I enjoy working on both product-focused startups and structured corporate projec
 - Design **secure authentication systems** 
 - Optimize **performance and developer experience**
 - Work comfortably with **legacy systems** as well as modern stacks
-## Education
+## 🎓Education
 - TED University — Computer Engineering GPA: 3.53
 
-## Work Experience
+## 💼 Work Experience
 - Neurocess — Software Engineer
 METU Technopark/Ankara 08.2022-03.2024
 - TNB Teknoloji — Software Engineer
