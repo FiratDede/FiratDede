@@ -1,5 +1,5 @@
 # Hi, I'm Fırat Dede 👋  
-Full-Stack Software Engineer | React / Next.js / TypeScript | Node.js (Express) | Java (Spring Boot) | React Native
+Full-Stack Software Engineer
 
 📍 Ankara, Turkey
 
@@ -22,33 +22,6 @@ I enjoy working on both product-focused startups and structured corporate projec
 METU Technopark/Ankara 08.2022-03.2024
 - TNB Teknoloji — Software Engineer
 Söğütözü/Ankara 12.2024-Now
-
-## 🧠 Core Skills
-
-### Frontend
-- React, Next.js, TypeScript
-- State management (Redux,Zustand), render optimization
-- Responsive UI
-
-### Backend
-- Node.js / Express.js (RESTful APIs)
-- Java / Spring Boot (legacy & modern applications)
-- Authentication & authorization flows
-- API design, validation, error handling
-
-### Mobile
-- React Native 
-
-### Database
-- PostgreSQL, MySQL
-- Relational data modeling & indexing
-### Infrastructure
-- Docker & Docker Compose
-- Linux (Debian, Ubuntu)
-- CI/CD Pipelines
-- Automation Scripts(python,bash,bat)
-
----
 
 ## 📈 Currently
 
