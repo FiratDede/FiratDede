@@ -21,7 +21,7 @@ I enjoy working on both product-focused startups and structured corporate projec
 - Neurocess — Software Engineer
 METU Technopark/Ankara 08.2022-03.2024
 - TNB Teknoloji — Software Engineer
-Söğütözü/Ankara 12.2024-Now
+Söğütözü/Ankara 12.2024-08.2026
 
 ## 📈 Currently
 
