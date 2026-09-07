@@ -4,7 +4,7 @@ Full-Stack Software Engineer
 📍 Ankara, Turkey
 
 I’m a Full-Stack Software Engineer with hands-on experience building modern, scalable web and mobile applications.  
-I enjoy working on both product-focused startups and structured corporate projects, turning real-world requirements into clean, maintainable, and performant systems.
+I enjoy working on both product-focused startups and structured corporate projects, turning real-world requirements into clean, maintainable, and performant systems. I am currently seeking a job.
 
 ---
 
@@ -24,7 +24,7 @@ METU Technopark/Ankara 08.2022-03.2024
 Söğütözü/Ankara 12.2024-08.2026
 
 ## 📈 Currently
-
+- Seeking a job
 - Open to **new opportunities**
 - Enjoy working in teams where **code quality and product thinking** matter
 ---
