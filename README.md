@@ -26,7 +26,6 @@ METU Technopark/Ankara 08.2022-03.2024
 Söğütözü/Ankara 12.2024-08.2026
 
 ## 📈 Currently
-- Seeking a job
 - Open to **new opportunities**
 - Enjoy working in teams where **code quality and product thinking** matter
 ---
