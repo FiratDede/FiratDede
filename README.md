@@ -1,5 +1,7 @@
 # Hi, I'm Fırat Dede 👋  
 Full-Stack Software Engineer
+<br/>
+**Seeking a job**
 
 📍 Ankara, Turkey
 
